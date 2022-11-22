@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\HW seminar 2 211122.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\HW seminar 2 211122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\HW seminar 2 211122.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\HW seminar 2 211122.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\HW seminar 2 211122.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\bin\Debug\net6.0\HW seminar 2 211122.exe
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\bin\Debug\net6.0\HW seminar 2 211122.deps.json
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\bin\Debug\net6.0\HW seminar 2 211122.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\bin\Debug\net6.0\HW seminar 2 211122.dll
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\bin\Debug\net6.0\HW seminar 2 211122.pdb
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\HW seminar 2 211122.dll
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\refint\HW seminar 2 211122.dll
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\HW seminar 2 211122.pdb
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\HW seminar 2 211122.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GB\HW seminar 2 211122\obj\Debug\net6.0\ref\HW seminar 2 211122.dll
